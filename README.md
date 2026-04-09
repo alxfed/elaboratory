@@ -1,10 +1,10 @@
-# Package name
+# Elaboratory
 Package Name
 <pre>
-  pip install package-name
+  pip install elaboratory
 </pre>
 Then:
 ```Python
   # Python
-  import package_name
+  import elaboratory
 ```
