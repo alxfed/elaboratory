@@ -1,5 +1,5 @@
 # Elaboratory
-Package Name
+From Latin elaboratus - exerted to utmost.
 <pre>
   pip install elaboratory
 </pre>
